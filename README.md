@@ -4,6 +4,6 @@
 ###
 # FOLDER plots - plotting of noise normalized data
 ###
-# <compound name>.csv files - raw measurement data 
+# "compound name".csv files - raw measurement data 
 ###
-# <compound name>.mca files - raw measurement data 
+# "compound name".mca files - raw measurement data 
